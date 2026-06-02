@@ -10,14 +10,6 @@ Me chamo Natalia Maria Tavares, tenho 21 anos e sou natural de Recife. Concluí 
 
 <img 
     align="left" 
-    alt="AnyDesk"
-    title="AnyDesk" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
