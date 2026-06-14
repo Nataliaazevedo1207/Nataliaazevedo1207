@@ -1,17 +1,25 @@
 # 👩🏻‍💻 Hi, I'm Natalia Azevedo :)
+
+### 💡 IT Support | Back-End Developer.
+
+-
+
+### 👩🏻‍💻 About Me
+
+My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I completed high school at ETE - Escola Técnica Estadual José Alencar Gomes da Silva, with a technical diploma in Administration. Currently, I am in my 6th semester of Information Systems at Uninassau and taking Intermediate English (4th module) at Senac. I am passionate about technology!
  
 ---
 
 # 👩🏻‍💻 Natalia Azevedo :)
 
-**`Suporte de TI / Desenvolvedora Back-End`**
+**`Suporte de TI | Desenvolvedora Back-End`**
 
-Me chamo Natalia Maria Tavares, tenho 21 anos e sou natural de Recife. Concluí o ensino médio no ETE - Escola Técnica Estadual José Alencar Gomes da Silva, com o curso técnico em Administração. Atualmente, estou cursando Sistemas de Informação na Uninassau e Inglês Intermediário em andamento 4º módulo no Senac. Sou apaixonada por tecnologia!!!
+Me chamo Natalia Maria Tavares, tenho 21 anos e sou natural de Recife. Concluí o ensino médio no ETE - Escola Técnica Estadual José Alencar Gomes da Silva, com o curso técnico em Administração. Atualmente, estou cursando 6º Período de Sistemas de Informação na Uninassau e Inglês Intermediário em andamento 4º módulo no Senac. Sou apaixonada por tecnologia!!!
 
-- 🖥️ Atualmente mais focado em:
+- 🖥️ Atualmente mais focada em:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0L9xjsIIlSiOLxAjXnD8P_1ZwmRyyqQ0pQ&s" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='40' height='40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0L9xjsIIlSiOLxAjXnD8P_1ZwmRyyqQ0pQ&s" />&nbsp;&nbsp;&nbsp;
 </div> 
 
 ---
