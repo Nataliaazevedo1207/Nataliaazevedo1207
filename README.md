@@ -11,7 +11,7 @@ Me chamo Natalia Maria Tavares, tenho 21 anos e sou natural de Recife. Concluí 
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="/mnt/data/a_simple_graphic_icon_on_a_dark_background_a_squa.png" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://thumb.ac-illust.com/77/77874020be6b8d0f9b66e354a132b483_t.jpeg" />&nbsp;&nbsp;&nbsp;
 </div> 
 
 ---
