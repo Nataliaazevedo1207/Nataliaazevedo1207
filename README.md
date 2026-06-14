@@ -2,8 +2,6 @@
 
 ### 💡 IT Support | Back-End Developer.
 
---
-
 ### 👩🏻‍💻 About Me
 
 My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I completed high school at ETE - Escola Técnica Estadual José Alencar Gomes da Silva, with a technical diploma in Administration. Currently, I am in my 6th semester of Information Systems at Uninassau and taking Intermediate English (4th module) at Senac. I am passionate about technology!
