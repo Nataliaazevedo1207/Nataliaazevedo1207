@@ -4,8 +4,22 @@
 
 ### 👩🏻‍💻 About Me
 
-My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I completed high school at ETE - Escola Técnica Estadual José Alencar Gomes da Silva, with a technical diploma in Administration. Currently, I am in my 6th semester of Information Systems at Uninassau and taking Intermediate English (4th module) at Senac. I am passionate about technology!
- 
+My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I completed high school at ETE - Escola Técnica Estadual José Alencar Gomes da Silva, with a technical diploma in Administration. Currently, I am in my 6th semester of Information Systems at Uninassau and in the 4th module of Intermediate English at Senac. I am passionate about technology!!!
+
+- 🖥️ Currently more focused on:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='40' height='40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0L9xjsIIlSiOLxAjXnD8P_1ZwmRyyqQ0pQ&s" />&nbsp;&nbsp;&nbsp;
+</div> 
+
+### You can also find me at:
+&nbsp;<a href="https://www.linkedin.com/in/natalia-azevedo-7b265a273/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/natalia_azevedo1012?igsh=cDQwcTRoY29jd2py">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
+
 ---
 
 # 👩🏻‍💻 Natalia Azevedo :)
