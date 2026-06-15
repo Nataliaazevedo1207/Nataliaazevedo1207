@@ -20,6 +20,7 @@ My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I comp
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 
+
 <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
