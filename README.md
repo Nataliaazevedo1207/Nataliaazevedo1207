@@ -7,10 +7,8 @@
 My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I completed high school at ETE - Escola Técnica Estadual José Alencar Gomes da Silva, with a technical diploma in Administration. Currently, I am in my 6th semester of Information Systems at Uninassau and in the 4th module of Intermediate English at Senac. I am passionate about technology!!!
 
 - 🖥️ Currently more focused on:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='40' height='40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0L9xjsIIlSiOLxAjXnD8P_1ZwmRyyqQ0pQ&s" />&nbsp;&nbsp;&nbsp;
-</div> 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### You can also find me at:
 &nbsp;<a href="https://www.linkedin.com/in/natalia-azevedo-7b265a273/">
@@ -38,10 +36,8 @@ My name is Natalia Maria Tavares, I am 21 years old and I am from Recife. I comp
 Me chamo Natalia Maria Tavares, tenho 21 anos e sou natural de Recife. Concluí o ensino médio no ETE - Escola Técnica Estadual José Alencar Gomes da Silva, com o curso técnico em Administração. Atualmente, estou cursando 6º Período de Sistemas de Informação na Uninassau e Inglês Intermediário em andamento 4º módulo no Senac. Sou apaixonada por tecnologia!!!
 
 - 🖥️ Atualmente mais focada em:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='40' height='40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0L9xjsIIlSiOLxAjXnD8P_1ZwmRyyqQ0pQ&s" />&nbsp;&nbsp;&nbsp;
-</div> 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -96,14 +92,6 @@ Me chamo Natalia Maria Tavares, tenho 21 anos e sou natural de Recife. Concluí 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
